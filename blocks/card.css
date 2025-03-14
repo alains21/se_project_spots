@@ -20,6 +20,10 @@
 
 .card__title {
   margin: 0;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: rgba(33, 33, 33, 1);
 }
 
 .card__like-button {
