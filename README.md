@@ -16,4 +16,4 @@ This project is a photo sharing app that allows users to post images with text a
 
 This webpage is deployed to GitHub Pages
 
-- deployment link: https://alains21.github.io/se_project_spots
+- deployment link: https://alains21.github.io/se_project_spots/index.html
