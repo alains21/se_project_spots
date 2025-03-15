@@ -17,3 +17,7 @@ This project is a photo sharing app that allows users to post images with text a
 This webpage is deployed to GitHub Pages
 
 - deployment link: https://alains21.github.io/se_project_spots/index.html
+
+## Video Recording
+
+- https://drive.google.com/file/d/1fS677kSqGKw_zJB2Jiy8vSzO92-C2PgI/view?usp=sharing
