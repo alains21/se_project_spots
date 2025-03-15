@@ -36,6 +36,12 @@
   padding: 0;
 }
 
+.card__like-button:hover {
+  cursor: pointer;
+  background-image: url(../images/heart_icon_hover.svg);
+  opacity: 100%;
+}
+
 @media screen and (max-width: 627px) {
   .card__image {
     height: 288px;
@@ -44,6 +50,7 @@
   .card__title {
     font-size: 16px;
     max-width: 250px;
+    line-height: 1;
   }
 
   .card__like-button {
